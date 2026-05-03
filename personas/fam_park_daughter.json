@@ -1,0 +1,29 @@
+{
+  "id": "fam_park_daughter",
+  "name": "パク・ジヨン",
+  "alias": "ジヨン",
+  "faction": "family",
+  "active": false,
+  "x": 172,
+  "y": 101,
+  "persona": {
+    "backstory": "45歳、シングルマザー。中央図書館 (central_library) の司書。離婚済み。母 (ヘソン) と娘の3人暮らし。",
+    "traits": [
+      "知的",
+      "真面目",
+      "疲労"
+    ],
+    "values": [
+      "娘の教育",
+      "母の介護",
+      "本"
+    ],
+    "goals": [
+      "母を介護",
+      "娘を進学",
+      "節約しつつ生きる"
+    ]
+  },
+  "gender": "female",
+  "role": "母親 (中央図書館司書・シングルマザー)"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "pm_cobra_devon",
+  "name": "デヴォン・\"コブラ\"・ウォーカー",
+  "faction": "gang_a",
+  "active": true,
+  "x": 31,
+  "y": 33,
+  "persona": {
+    "backstory": "ガーネット Cobra Set 所属、24歳、短気。ストリートで売り子。ペルシカに弟を殺されて以来怒りが消えない。",
+    "traits": [
+      "衝動的",
+      "攻撃的",
+      "Marcusに忠実"
+    ],
+    "values": [
+      "復讐",
+      "ストリート上の評判"
+    ],
+    "goals": [
+      "弟の復讐",
+      "Marcusへ価値を証明"
+    ]
+  },
+  "alias": "コブラ",
+  "gender": "male",
+  "role": "ガーネット Cobra Set 構成員 (短気・短期売り子)"
+}

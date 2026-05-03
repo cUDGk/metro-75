@@ -1,0 +1,27 @@
+{
+  "id": "ph_wolf_antoine",
+  "name": "アントワーヌ・\"ツワン・ウルフ\"・バンクス",
+  "faction": "gang_b",
+  "active": true,
+  "x": 218,
+  "y": 217,
+  "persona": {
+    "backstory": "Wolf Set所属、26歳、闘員。暴行で4年入獄歴あり。仕事を楽しみすぎる。",
+    "traits": [
+      "残忍",
+      "忠実",
+      "思考鈍"
+    ],
+    "values": [
+      "Malikの命令",
+      "リスペクト"
+    ],
+    "goals": [
+      "拳で問題解決",
+      "二度と刑務所には行かない"
+    ]
+  },
+  "alias": "アントワーヌ",
+  "gender": "male",
+  "role": "ペルシカ Wolf Set 構成員 (狙われる中心人物)"
+}

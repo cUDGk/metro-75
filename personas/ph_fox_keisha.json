@@ -1,0 +1,27 @@
+{
+  "id": "ph_fox_keisha",
+  "name": "キーシャ・\"K-フォックス\"・モリソン",
+  "faction": "gang_b",
+  "active": true,
+  "x": 216,
+  "y": 217,
+  "persona": {
+    "backstory": "Fox Setのリーダー、28歳。Malikの愛人で実質No.2。多くが思うより遥かに賢い。",
+    "traits": [
+      "観察力",
+      "操作的",
+      "過小評価される"
+    ],
+    "values": [
+      "自分のポジション",
+      "長期戦"
+    ],
+    "goals": [
+      "Malik失脚時のトップ取り",
+      "リーク特定"
+    ]
+  },
+  "alias": "キーシャ",
+  "gender": "female",
+  "role": "ペルシカ Fox Set リーダー"
+}

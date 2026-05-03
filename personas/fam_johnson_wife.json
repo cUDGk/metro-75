@@ -1,0 +1,29 @@
+{
+  "id": "fam_johnson_wife",
+  "name": "グレース・ジョンソン",
+  "alias": "グレース",
+  "faction": "family",
+  "active": false,
+  "x": 202,
+  "y": 171,
+  "persona": {
+    "backstory": "52歳、教会 (st_marys_church) の聖歌隊長。元小学校教師。",
+    "traits": [
+      "信心深い",
+      "世話焼き",
+      "声が大きい"
+    ],
+    "values": [
+      "教会",
+      "若い世代",
+      "聖歌"
+    ],
+    "goals": [
+      "聖歌隊員増",
+      "若者の道を正す",
+      "夫の機嫌を取る"
+    ]
+  },
+  "gender": "female",
+  "role": "母親 (聖歌隊長・元小学校教師)"
+}

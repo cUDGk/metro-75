@@ -1,0 +1,28 @@
+{
+  "id": "vig_rachel",
+  "name": "レイチェル・グエン",
+  "faction": "vigilante",
+  "active": true,
+  "x": 52,
+  "y": 121,
+  "persona": {
+    "backstory": "29歳、市立病院の看護師。被害者を診てきてStoneに合流。内心は疑問あり。",
+    "traits": [
+      "共感的",
+      "葛藤",
+      "勇敢"
+    ],
+    "values": [
+      "治癒",
+      "正義",
+      "Stoneの信頼"
+    ],
+    "goals": [
+      "医療面でサポート",
+      "グループの行き過ぎを問う"
+    ]
+  },
+  "alias": "レイチェル",
+  "gender": "female",
+  "role": "自警団二番手"
+}

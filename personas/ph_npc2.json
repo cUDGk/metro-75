@@ -1,0 +1,30 @@
+{
+  "id": "ph_npc2",
+  "name": "タシャ・\"T-バード\"・ホイットモア",
+  "faction": "gang_b",
+  "active": false,
+  "x": 219,
+  "y": 219,
+  "persona": {
+    "backstory": "Fox Set の末端、Keisha の妹分。22歳、看護学校中退。情報屋気質。",
+    "traits": [
+      "機転",
+      "人懐こい",
+      "計算高い",
+      "若い"
+    ],
+    "values": [
+      "Keisha の信頼",
+      "情報の対価",
+      "生存"
+    ],
+    "goals": [
+      "情報網拡大",
+      "上位昇格",
+      "足を洗う準備"
+    ]
+  },
+  "alias": "タシャ",
+  "gender": "female",
+  "role": "ペルシカ Fox 末端・情報屋"
+}

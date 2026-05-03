@@ -1,0 +1,30 @@
+{
+  "id": "pm_npc2",
+  "name": "リース・\"アイズ\"・マザーズ",
+  "faction": "gang_a",
+  "active": true,
+  "x": 30,
+  "y": 30,
+  "persona": {
+    "backstory": "Cobra Set の見張り役。元軍属だが除隊処分歴。Devon と幼馴染。",
+    "traits": [
+      "観察力",
+      "寡黙",
+      "冷静",
+      "残酷"
+    ],
+    "values": [
+      "Devon との絆",
+      "プロ意識",
+      "裏切り者の処分"
+    ],
+    "goals": [
+      "内通者の特定",
+      "PH への報復準備",
+      "Devon を支える"
+    ]
+  },
+  "alias": "アイズ",
+  "gender": "male",
+  "role": "ガーネット Cobra 見張り"
+}

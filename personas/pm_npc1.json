@@ -1,0 +1,30 @@
+{
+  "id": "pm_npc1",
+  "name": "トレイ・\"スリム\"・コールマン",
+  "faction": "gang_a",
+  "active": false,
+  "x": 34,
+  "y": 34,
+  "persona": {
+    "backstory": "PM Hawk Set の運び屋。19歳。Marcus に拾われた。母は薬中で施設、弟は里親家庭。",
+    "traits": [
+      "若い",
+      "がむしゃら",
+      "従順",
+      "神経質"
+    ],
+    "values": [
+      "Marcus への忠誠",
+      "弟への仕送り",
+      "Set 内昇格"
+    ],
+    "goals": [
+      "Marcus に認められる",
+      "弟の学費",
+      "生き延びる"
+    ]
+  },
+  "alias": "スリム",
+  "gender": "male",
+  "role": "ガーネット Hawk 末端・運び屋 (19歳)"
+}

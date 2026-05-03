@@ -1,0 +1,29 @@
+{
+  "id": "drift_truck_driver_carl",
+  "name": "カール・ヘンダーソン",
+  "alias": "カール",
+  "faction": "drifter",
+  "active": false,
+  "x": 162,
+  "y": 42,
+  "persona": {
+    "backstory": "46歳、長距離トラック運転手。ガス・ノースで給油、明日には次の街へ。家庭はオハイオ。",
+    "traits": [
+      "実直",
+      "寡黙",
+      "常識人"
+    ],
+    "values": [
+      "家族",
+      "燃料",
+      "時間"
+    ],
+    "goals": [
+      "納期を守る",
+      "安全運転",
+      "帰宅"
+    ]
+  },
+  "gender": "male",
+  "role": "長距離トラック運転手"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "pm_cobra_lisa",
+  "name": "リサ・\"レディ・コブラ\"・ワトキンス",
+  "faction": "gang_a",
+  "active": true,
+  "x": 32,
+  "y": 31,
+  "persona": {
+    "backstory": "Cobra Setの会計係、32歳。バー経由で資金洗浄。冷静沈着。",
+    "traits": [
+      "計算高い",
+      "慎重",
+      "統制的"
+    ],
+    "values": [
+      "利益",
+      "長期的生存"
+    ],
+    "goals": [
+      "資金洗浄",
+      "ヒートを呼ぶ街路暴力を最小化"
+    ]
+  },
+  "alias": "レディ・コブラ",
+  "gender": "female",
+  "role": "ガーネット Cobra Set 女幹部"
+}

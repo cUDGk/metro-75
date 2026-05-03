@@ -1,0 +1,30 @@
+{
+  "id": "ph_npc1",
+  "name": "デイモン・\"D-ブロック\"・リーヴス",
+  "faction": "gang_b",
+  "active": true,
+  "x": 215,
+  "y": 215,
+  "persona": {
+    "backstory": "Wolf Set の中堅、Antoine の従兄弟。28歳。元プロボクサー(2勝3敗)。",
+    "traits": [
+      "筋肉質",
+      "短気",
+      "家族主義",
+      "直情"
+    ],
+    "values": [
+      "Antoine の血縁",
+      "PH の縄張り",
+      "面子"
+    ],
+    "goals": [
+      "Antoine を護衛",
+      "PM への先制攻撃",
+      "Wolf Set 主導権"
+    ]
+  },
+  "alias": "D-ブロック",
+  "gender": "male",
+  "role": "ペルシカ Wolf 中堅 (アントワーヌの従兄弟)"
+}

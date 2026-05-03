@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.gguf
+.DS_Store
+*.tmp
+*.swp
+
+# 生成・実行成果物
+logs/
+
+# Kenney tileset (CC0、再ダウンロード可、現状未使用)
+map/tileset/
+
+# 移送スクリプト用 bat (ローカルパス依存)
+mini_*.bat
+*.output

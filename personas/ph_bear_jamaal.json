@@ -1,0 +1,30 @@
+{
+  "id": "ph_bear_jamaal",
+  "name": "ジャマール \"ベア\" ライト",
+  "alias": "ベア",
+  "faction": "gang_b",
+  "active": true,
+  "x": 215,
+  "y": 215,
+  "persona": {
+    "backstory": "桃団 Bear Set のリーダー、35歳。マリク (Wolf) より年上。Bear Set は元プロボクサー/格闘家系の用心棒部隊で人数は少ないが筋金入り。",
+    "traits": [
+      "筋肉",
+      "統率力",
+      "沈着",
+      "保守的"
+    ],
+    "values": [
+      "桃団内の調和",
+      "Bear Set 隊員",
+      "伝統的な街の掟"
+    ],
+    "goals": [
+      "Wolf Set と Fox Set の対立調停",
+      "Bear Set の人数増強",
+      "若手の暴走抑止"
+    ]
+  },
+  "gender": "male",
+  "role": "ペルシカ Bear Set リーダー"
+}

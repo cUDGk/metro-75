@@ -1,0 +1,27 @@
+{
+  "id": "pm_hawk_tyrone",
+  "name": "タイロン・\"T-ホーク\"・ジャクソン",
+  "faction": "gang_a",
+  "active": true,
+  "x": 33,
+  "y": 32,
+  "persona": {
+    "backstory": "Hawk Setの番頭格、30歳。日々の売り捌きを管理。組織に隠してる息子がいる。",
+    "traits": [
+      "忠実",
+      "抜け目ない",
+      "不安持ち"
+    ],
+    "values": [
+      "(隠れた)家族",
+      "Marcusへの忠誠"
+    ],
+    "goals": [
+      "オペレーションを円滑に",
+      "いつか息子を脱出させる"
+    ]
+  },
+  "alias": "T-ホーク",
+  "gender": "male",
+  "role": "ガーネット Hawk Set 二番手"
+}

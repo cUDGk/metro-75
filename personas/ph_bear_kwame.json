@@ -1,0 +1,30 @@
+{
+  "id": "ph_bear_kwame",
+  "name": "クワメ \"アイアン\" ジョーンズ",
+  "alias": "アイアン",
+  "faction": "gang_b",
+  "active": true,
+  "x": 219,
+  "y": 213,
+  "persona": {
+    "backstory": "桃団 Bear Set 二番手、29歳。元軍隊 (アフガン3年)、PTSD気味だがその分使える戦闘員。ジャマールの右腕。",
+    "traits": [
+      "静か",
+      "戦闘的",
+      "PTSD",
+      "寡黙"
+    ],
+    "values": [
+      "ジャマールの命令",
+      "実戦経験",
+      "酒"
+    ],
+    "goals": [
+      "Bear Set の出番を作る",
+      "心の安らぎ",
+      "抗争で活躍"
+    ]
+  },
+  "gender": "male",
+  "role": "ペルシカ Bear Set 二番手 (元軍人)"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "fam_morales_daughter",
+  "name": "ソフィア・モラレス",
+  "alias": "ソフィア",
+  "faction": "family",
+  "active": false,
+  "x": 50,
+  "y": 121,
+  "persona": {
+    "backstory": "13歳、ジェファーソン高 (jefferson_high) 1年生。理数系特待。",
+    "traits": [
+      "真面目",
+      "内気",
+      "好奇心"
+    ],
+    "values": [
+      "勉強",
+      "友達",
+      "将来"
+    ],
+    "goals": [
+      "奨学金",
+      "大学進学",
+      "プログラマーになる"
+    ]
+  },
+  "gender": "female",
+  "role": "娘 (ジェファーソン高1年・理数系特待)"
+}

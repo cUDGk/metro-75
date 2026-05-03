@@ -1,0 +1,30 @@
+{
+  "id": "vig_npc2",
+  "name": "マリソル・オルテガ",
+  "faction": "vigilante",
+  "active": false,
+  "x": 105,
+  "y": 158,
+  "persona": {
+    "backstory": "Rachel の高校時代からの親友、24歳。看護助手。自警団に巻き込まれた格好だが熱心。",
+    "traits": [
+      "純粋",
+      "熱心",
+      "他人事に動く",
+      "迷い"
+    ],
+    "values": [
+      "Rachel との友情",
+      "若い世代を守る",
+      "正義"
+    ],
+    "goals": [
+      "Rachel をサポート",
+      "街の子を救う",
+      "Stone の信頼を得る"
+    ]
+  },
+  "alias": "マリソル",
+  "gender": "female",
+  "role": "自警団・看護助手"
+}
