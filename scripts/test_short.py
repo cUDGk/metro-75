@@ -1,4 +1,6 @@
 """Short smoke test: 3 agents, 5 sim-hours (10 decisions each at 30-min interval)."""
+import sys, pathlib
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent.parent))
 import sys, io
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 import json, time, os, tempfile

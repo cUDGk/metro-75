@@ -2,6 +2,8 @@
 
 Posts each of 7 days as a separate Discord message.
 """
+import sys, pathlib
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent.parent))
 import sys, io, os, re, json, sqlite3, time
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 

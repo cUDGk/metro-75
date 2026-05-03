@@ -1,4 +1,6 @@
 """Build a chronological timeline of events from a metro-75 run."""
+import sys, pathlib
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent.parent))
 import sys, io, os, sqlite3, re, json, glob
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 

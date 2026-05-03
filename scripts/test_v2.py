@@ -1,4 +1,6 @@
 """V2 quality test: 5 agents, 8 sim-hours, with plan/reflect/events/JP chat."""
+import sys, pathlib
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent.parent))
 import sys, io, os
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 

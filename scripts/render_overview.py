@@ -1,4 +1,6 @@
 """Render an overview map with landmark labels + all 30 agents at start positions."""
+import sys, pathlib
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent.parent))
 import sys, io, os, json, glob
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 

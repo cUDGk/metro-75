@@ -58,10 +58,21 @@ metro-75/
 ├── map/metro.json           # 生成済み街マップ
 ├── run_28day.py             # メインランナー (--days N)
 ├── resume_run.py            # チェックポイントから再開
-├── REQUIREMENTS.md          # 技術要件まとめ
-├── SCENARIO.md              # シナリオ設定 (相関図/Day 0 イベント)
-├── NPCS.md                  # 全60人プロフィール
-└── overview.png             # 街マップ全景
+├── scripts/                 # セットアップ/分析/ベンチスクリプト
+│   ├── add_new_personas.py  # NPC増設
+│   ├── katakana_names.py    # ペルソナのカタカナ化
+│   ├── render_overview.py   # マップ全景PNG生成
+│   ├── dump_profiles.py     # NPCS.md再生成
+│   ├── summarize_per_day.py # 日別サマリ Discord 投稿
+│   ├── timeline.py          # 完走後の事件タイムライン抽出
+│   ├── generate_report.py   # 統計レポート
+│   ├── bench_llamaserver.py # LLM レイテンシ計測
+│   └── ...                  # その他テスト・update スクリプト
+└── docs/
+    ├── REQUIREMENTS.md      # 技術要件まとめ
+    ├── SCENARIO.md          # シナリオ設定 (相関図/Day 0 イベント)
+    ├── NPCS.md              # 全60人プロフィール
+    └── optimization/        # 4本の最適化分析メモ
 ```
 
 ## インストール

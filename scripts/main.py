@@ -1,4 +1,6 @@
 """Metro-75 main entry: load map + personas, run simulation."""
+import sys, pathlib
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent.parent))
 from __future__ import annotations
 import os
 import sys
