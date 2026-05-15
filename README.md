@@ -25,7 +25,7 @@
 
 | 項目 | 内容 |
 |---|---|
-| 規模 | 250×250タイル / 60エージェント (アクティブ25 + NPC35) / 39ランドマーク |
+| 規模 | 250×250タイル / 60エージェント (アクティブ25 + NPC35) / 41ランドマーク |
 | LLM | Qwen3-30B-A3B-Instruct (Q4_K_M GGUF) on llama-server, Vulkan iGPU |
 | 認知層 | 行動決定 (毎sim-hour) / 計画 (毎sim-day朝) / リフレクション (4sim-hourごとstagger) |
 | 記憶 | SQLite per-agent / 重要度1-10で優先選別 / 日次LLMダイジェストで圧縮 |
